@@ -1,0 +1,4 @@
+Name: Rak Anastasiya
+Age: 31
+Pets: no
+Salary: 2000$
